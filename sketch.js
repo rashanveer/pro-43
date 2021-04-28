@@ -29,14 +29,14 @@ pop();
 
 push();
 rotate(mnAngle)
-stroke(25,200,200)
+stroke(0,255,0)
 strokeWeight (7)
  line(0,0,75,0) 
 pop();
 
 push();
 rotate(hrAngle)
-stroke(200,150,200)
+stroke(0,0,255)
 strokeWeight (7)
  line(0,0,50,0) 
 pop();
